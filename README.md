@@ -1,5 +1,5 @@
 # Women in Technology Poland 
-# Workshops: Analiza danych w Pythonie
+## Workshops: Analiza danych w Pythonie
 
 Repozytorium zawiera:
 1. Radanie rekrutacyjne - Anagramy.
